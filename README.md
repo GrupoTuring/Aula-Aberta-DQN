@@ -4,7 +4,7 @@ Bem vindo à mais uma aula aberta do Grupo Turing!
 
 Dessa vez falaremos sobre uma poderosa generalização do algoritmo ensinado na aula passada, o famigerado Deep Q-Learning, um Q-Learning com redes neurais, e com ele você ensinará um módulo a pousar na Lua!
 
-### [👨‍💻 Código Completo](#TODO)
+### [👨‍💻 Código Completo](./Código%20Completo/Lunar-Lander-DQN.ipynb)
 
 ## 📚 Material da Aula
 
