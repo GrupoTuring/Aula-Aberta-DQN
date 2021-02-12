@@ -8,7 +8,7 @@ Dessa vez falaremos sobre uma poderosa generalização do algoritmo ensinado na 
 
 ## 📚 Material da Aula
 
-### [👩‍🏫 Slides](#TODO)
+### [👩‍🏫 Slides](./Deep%20Q-Networks%20(DQN).pdf)
 
 ### [☁️ Código para ser completado - Colab](https://colab.research.google.com/github/GrupoTuring/Aula-Aberta-DQN/blob/main/C%C3%B3digo%20Para%20Completar/Lunar-Lander-DQN-Aula.ipynb)
 
