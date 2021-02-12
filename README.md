@@ -10,6 +10,6 @@ Dessa vez falaremos sobre uma poderosa generalização do algoritmo ensinado na 
 
 ### [👩‍🏫 Slides](#TODO)
 
-### [☁️ Código para ser completado - Collab](#TODO)
+### [☁️ Código para ser completado - Collab](https://colab.research.google.com/github/GrupoTuring/Aula-Aberta-DQN/blob/main/C%C3%B3digo%20Para%20Completar/Lunar-Lander-DQN-Aula.ipynb)
 
-### [📝 Código para se completado - Local](#TODO)
+### [📝 Código para se completado - Local](https://github.com/GrupoTuring/Aula-Aberta-DQN/blob/main/C%C3%B3digo%20Para%20Completar/Lunar-Lander-DQN-Aula.ipynb)
